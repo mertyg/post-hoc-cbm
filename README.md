@@ -3,6 +3,10 @@ The code for the paper Post-hoc Concept Bottleneck Models will be available here
 
 The [workshop version of the paper](https://openreview.net/forum?id=HAMeOIRD_g9) was published in ICLR 2022 PAIR2Struct Workshop. This is the joint work of [Mert Yuksekgonul](https://cs.stanford.edu/~merty), [Maggie Wang](https://www.linkedin.com/in/maggie-wang-038b55194/), and [James Zou](https://www.james-zou.com/).
 
+Here is an overview of our work, and you can find more in our [Preprint](https://arxiv.org/abs/2205.15480) (soon to be updated).
+
+![Overview](./assets/overview.png)
+
 
 # Data Instructions
 Below we list the data sources to download the datasets we used to train / evaluate PCBMs. Once you download a dataset, please go to `data/constants.py` and specify the corresponding paths where you downloaded the datasets. 
