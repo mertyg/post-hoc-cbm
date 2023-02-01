@@ -1,5 +1,5 @@
 # Post-hoc Concept Bottleneck Models (ICLR 2023 Spotlight)
-The code for the paper Post-hoc Concept Bottleneck Models. This paper got an [ICLR2023 Spotlight(notable-top-25%)](https://openreview.net/forum?id=nA5AZ8CEyow) paper.
+The code for the paper Post-hoc Concept Bottleneck Models. This paper got an [ICLR2023 Spotlight(notable-top-25%)](https://openreview.net/forum?id=nA5AZ8CEyow)!
 
 
 This is the joint work of [Mert Yuksekgonul](https://cs.stanford.edu/~merty), [Maggie Wang](https://www.linkedin.com/in/maggie-wang-038b55194/), and [James Zou](https://www.james-zou.com/).
