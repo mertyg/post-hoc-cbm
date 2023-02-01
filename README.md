@@ -1,7 +1,8 @@
-# Post-hoc Concept Bottleneck Models
-The code for the paper Post-hoc Concept Bottleneck Models will be available here. As the work is still under review, this is a partial release of most of the functionalities. 
+# Post-hoc Concept Bottleneck Models (ICLR 2023 Spotlight)
+The code for the paper Post-hoc Concept Bottleneck Models. This paper got an [ICLR2023 Spotlight(notable-top-25%)](https://openreview.net/forum?id=nA5AZ8CEyow) paper.
 
-The [workshop version of the paper](https://openreview.net/forum?id=HAMeOIRD_g9) was published in ICLR 2022 PAIR2Struct Workshop. This is the joint work of [Mert Yuksekgonul](https://cs.stanford.edu/~merty), [Maggie Wang](https://www.linkedin.com/in/maggie-wang-038b55194/), and [James Zou](https://www.james-zou.com/).
+
+This is the joint work of [Mert Yuksekgonul](https://cs.stanford.edu/~merty), [Maggie Wang](https://www.linkedin.com/in/maggie-wang-038b55194/), and [James Zou](https://www.james-zou.com/).
 
 Here is an overview of our work, and you can find more in our [Preprint](https://arxiv.org/abs/2205.15480) (soon to be updated).
 
@@ -88,10 +89,12 @@ This repository is WIP! The quickest way to reach out to me is via `merty@stanfo
 # Citation
 If you find this code useful, please consider citing our paper:
 ```
-@article{yuksekgonul2022post,
-  title={Post-hoc Concept Bottleneck Models},
-  author={Yuksekgonul, Mert and Wang, Maggie and Zou, James},
-  journal={arXiv preprint arXiv:2205.15480},
-  year={2022}
+@inproceedings{
+yuksekgonul2023posthoc,
+title={Post-hoc Concept Bottleneck Models},
+author={Mert Yuksekgonul and Maggie Wang and James Zou},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=nA5AZ8CEyow}
 }
 ```
