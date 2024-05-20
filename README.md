@@ -4,6 +4,8 @@ The code for the paper Post-hoc Concept Bottleneck Models. This paper got an [IC
 
 This is the joint work of [Mert Yuksekgonul](https://cs.stanford.edu/~merty), [Maggie Wang](https://www.linkedin.com/in/maggie-wang-038b55194/), and [James Zou](https://www.james-zou.com/).
 
+**Update: Reproducibility Study.** A recent study titled "On the Reproducibility of Post-Hoc Concept Bottleneck Models" [recently got accepted to TMLR](https://openreview.net/forum?id=8UfhCZjOV7). It is a very detailed study, and I recommend that you check out their work and [GitHub repository](https://github.com/dgcnz/FACT)! Thank you Nesta, Gregory, Diego, Ioana, and Satchit!!
+
 Here is an overview of our work, and you can find more in our [Preprint](https://arxiv.org/abs/2205.15480) (soon to be updated).
 
 ![Overview](./assets/overview.png)
